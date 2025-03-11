@@ -1,0 +1,1 @@
+static uint8_t edge1, edge2;
